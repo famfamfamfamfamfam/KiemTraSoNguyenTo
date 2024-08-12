@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\ThucHanh\KiemTraSoNguyenTo\bin\Debug\net8.0\KiemTraSoNguyenTo.exe
+C:\Users\pc\Desktop\Module1\ThucHanh\KiemTraSoNguyenTo\bin\Debug\net8.0\KiemTraSoNguyenTo.deps.json
+C:\Users\pc\Desktop\Module1\ThucHanh\KiemTraSoNguyenTo\bin\Debug\net8.0\KiemTraSoNguyenTo.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\ThucHanh\KiemTraSoNguyenTo\bin\Debug\net8.0\KiemTraSoNguyenTo.dll
+C:\Users\pc\Desktop\Module1\ThucHanh\KiemTraSoNguyenTo\bin\Debug\net8.0\KiemTraSoNguyenTo.pdb
+C:\Users\pc\Desktop\Module1\ThucHanh\KiemTraSoNguyenTo\obj\Debug\net8.0\KiemTraSoNguyenTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\ThucHanh\KiemTraSoNguyenTo\obj\Debug\net8.0\KiemTraSoNguyenTo.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\ThucHanh\KiemTraSoNguyenTo\obj\Debug\net8.0\KiemTraSoNguyenTo.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\ThucHanh\KiemTraSoNguyenTo\obj\Debug\net8.0\KiemTraSoNguyenTo.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\ThucHanh\KiemTraSoNguyenTo\obj\Debug\net8.0\KiemTraSoNguyenTo.sourcelink.json
+C:\Users\pc\Desktop\Module1\ThucHanh\KiemTraSoNguyenTo\obj\Debug\net8.0\KiemTraSoNguyenTo.dll
+C:\Users\pc\Desktop\Module1\ThucHanh\KiemTraSoNguyenTo\obj\Debug\net8.0\refint\KiemTraSoNguyenTo.dll
+C:\Users\pc\Desktop\Module1\ThucHanh\KiemTraSoNguyenTo\obj\Debug\net8.0\KiemTraSoNguyenTo.pdb
+C:\Users\pc\Desktop\Module1\ThucHanh\KiemTraSoNguyenTo\obj\Debug\net8.0\KiemTraSoNguyenTo.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\ThucHanh\KiemTraSoNguyenTo\obj\Debug\net8.0\ref\KiemTraSoNguyenTo.dll
